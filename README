@@ -1,0 +1,10 @@
+Program do liczenia pol i objetosci kwadratu i szescianu. Jest to prosty program napisany w jezyku c, zawierajacy 3 pliki c + 3 pliki naglowkowe.
+
+Sposob uzycia:
+1. Wybierz figure: 1-kwadrat, 2-szescian.
+2. Wprowadz dlugosc boku. Musi byc liczba dodatnia, w przeciwnym wypadku program powroci do wyboru figury.
+3. Jezeli wybrales kwadrat, program policzy jego pole.
+4. Jezeli wybrales szescian, program policzy jego pole powierzchni bocznej oraz objetosc.
+5. Aby zakonczyc dzialanie programu, wprowadz 0 przy wyborze figury.
+
+Wersja: 1.0
